@@ -1,0 +1,6 @@
+D:\Storage\Desktop\Projects\Github\BFloat\BFloat\BFloatTest\bin\Debug\BFloatTest.exe.config
+D:\Storage\Desktop\Projects\Github\BFloat\BFloat\BFloatTest\bin\Debug\BFloatTest.exe
+D:\Storage\Desktop\Projects\Github\BFloat\BFloat\BFloatTest\bin\Debug\BFloatTest.pdb
+D:\Storage\Desktop\Projects\Github\BFloat\BFloat\BFloatTest\obj\Debug\BFloatTest.csprojAssemblyReference.cache
+D:\Storage\Desktop\Projects\Github\BFloat\BFloat\BFloatTest\obj\Debug\BFloatTest.exe
+D:\Storage\Desktop\Projects\Github\BFloat\BFloat\BFloatTest\obj\Debug\BFloatTest.pdb
