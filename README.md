@@ -1,3 +1,6 @@
+### If you need Javascript version / 如果你需要Javascript版本
+[bfloat.js](https://github.com/michaelgx2/bfloat.js)
+
 # BFloat
 C# big float number type. Support +/-/*// and power. ToString() method support scientific notation or strings like "12.3ab", or with Chinese words such as "万/亿/兆".
 
