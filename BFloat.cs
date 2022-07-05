@@ -395,6 +395,10 @@ public struct BFloat
                     {
                         unit = "亿";
                     }
+                    else if (_scale <= 12)
+                    {
+                        unit = "万亿";
+                    }
                     else
                     {
                         unit = "兆";
